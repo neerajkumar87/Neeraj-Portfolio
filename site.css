@@ -220,6 +220,7 @@ body {
 }
 
 .hero-sparkline {
+    display: block;
     width: 260px;
     height: 48px;
     margin-top: 34px;
